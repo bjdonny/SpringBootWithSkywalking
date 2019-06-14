@@ -1,0 +1,916 @@
+INFO 2019-06-14 13:33:31:167 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:168 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:169 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:170 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:172 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:173 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:174 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:175 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:177 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:178 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:179 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:180 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:181 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:182 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:183 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:184 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:185 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:186 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:187 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:188 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:189 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:190 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:191 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:192 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:193 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:194 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:195 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:197 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:198 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:199 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:200 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:201 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:202 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:203 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:204 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:205 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:206 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:207 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:208 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:209 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:210 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:211 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:212 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:213 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:214 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:215 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:216 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:217 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:218 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:220 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:221 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:222 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:223 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:224 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:31:229 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:229 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:229 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:229 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:230 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:230 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:230 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:230 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:230 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:231 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:231 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:231 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:231 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:232 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:232 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:232 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:232 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:233 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:233 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:233 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:233 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:234 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:234 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:234 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:234 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:234 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:235 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:235 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:235 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:235 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:236 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:236 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:236 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:236 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:236 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:237 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:237 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:237 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:237 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:237 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:238 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:238 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:238 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:238 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:238 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:239 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:239 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:240 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:240 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:241 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:241 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:33:31:242 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+DEBUG 2019-06-14 13:33:31:276 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:284 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:285 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.CanalInstrumentation. 
+DEBUG 2019-06-14 13:33:31:287 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.ClusterNodeInstrumentation. 
+DEBUG 2019-06-14 13:33:31:288 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.DubboInstrumentation. 
+DEBUG 2019-06-14 13:33:31:289 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.esjob.define.JobExecutorInstrumentation. 
+DEBUG 2019-06-14 13:33:31:290 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportProxyClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:292 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportActionNodeProxyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:293 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.PlainListenableActionFutureInstrumentation. 
+DEBUG 2019-06-14 13:33:31:294 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.GenericActionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:295 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportClientNodesServiceInstrumentation. 
+DEBUG 2019-06-14 13:33:31:296 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:298 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractStubInstrumentation. 
+DEBUG 2019-06-14 13:33:31:299 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractServerImplBuilderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:300 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.ClientCallsInstrumentation. 
+DEBUG 2019-06-14 13:33:31:301 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:33:31:303 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:305 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.PooledJdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:306 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcXAConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:307 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:308 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.SessionRequestInstrumentation. 
+DEBUG 2019-06-14 13:33:31:309 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncRequestExecutorInstrumentation. 
+DEBUG 2019-06-14 13:33:31:310 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.AbstractHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:312 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:313 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.MinimalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:314 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.DefaultRequestDirectorInstrumentation. 
+DEBUG 2019-06-14 13:33:31:315 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-06-14 13:33:31:316 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-06-14 13:33:31:318 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisClusterInstrumentation. 
+DEBUG 2019-06-14 13:33:31:319 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisInstrumentation. 
+DEBUG 2019-06-14 13:33:31:321 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v90.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:33:31:322 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:33:31:324 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.JettyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:325 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.DispatcherInstrumentation. 
+DEBUG 2019-06-14 13:33:31:327 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:329 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaConsumerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:332 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaProducerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:334 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.ProducerRecordInstrumentation. 
+DEBUG 2019-06-14 13:33:31:337 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:342 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionImplInstrumentation. 
+DEBUG 2019-06-14 13:33:31:345 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v3.define.MongoDBInstrumentation. 
+DEBUG 2019-06-14 13:33:31:348 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:33:31:349 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql5xConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:351 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql50ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:352 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.CallableInstrumentation. 
+DEBUG 2019-06-14 13:33:31:353 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.PreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:354 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.StatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:356 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.FailoverConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:357 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.LoadBalancedConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:358 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.ReplicationConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:359 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpGetSenderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:361 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpPostSenderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:362 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpFilePostSenderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:363 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.mvc.define.ActionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:364 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.RealCallInstrumentation. 
+DEBUG 2019-06-14 13:33:31:365 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:366 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.AsyncCallInstrumentation. 
+DEBUG 2019-06-14 13:33:31:367 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:33:31:368 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc3ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:370 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc4ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:371 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:372 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.AbstractJdbc2StatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:373 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgCallableStatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:374 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgPreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:375 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgStatementInstrumentation. 
+DEBUG 2019-06-14 13:33:31:376 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:378 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:379 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.ConnectionManagerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:381 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisConnectionInstrumentation. 
+DEBUG 2019-06-14 13:33:31:382 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisClientInstrumentation. 
+DEBUG 2019-06-14 13:33:31:383 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:33:31:385 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.ResponseExtractorFutureInstrumentation. 
+DEBUG 2019-06-14 13:33:31:386 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:33:31:387 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:388 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:390 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:33:31:391 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:392 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:393 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:33:31:394 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:33:31:396 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:397 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:399 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:400 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:401 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:402 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sjdbc.define.ExecutorInstrumentation. 
+DEBUG 2019-06-14 13:33:31:404 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.cloud.netflix.feign.v11.define.NetflixFeignInstrumentation. 
+DEBUG 2019-06-14 13:33:31:405 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.FailureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:407 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.SuccessCallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:408 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.ListenableFutureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:33:31:409 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-06-14 13:33:31:410 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-06-14 13:33:31:412 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopExpressionMatchInstrumentation. 
+DEBUG 2019-06-14 13:33:31:413 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-06-14 13:33:31:414 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:416 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:33:31:417 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:418 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInvokerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:419 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:422 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:423 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:33:31:424 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:426 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:429 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:430 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:33:31:432 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.commons.define.AnnotationMethodHandlerAdapterInstrumentation. 
+DEBUG 2019-06-14 13:33:31:433 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spymemcached.v2.define.MemcachedInstrumentation. 
+DEBUG 2019-06-14 13:33:31:435 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.struts2.define.Struts2Instrumentation. 
+DEBUG 2019-06-14 13:33:31:436 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.RequestDispatcherImplInstrumentation. 
+DEBUG 2019-06-14 13:33:31:437 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.UndertowInstrumentation. 
+DEBUG 2019-06-14 13:33:31:438 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations20xInstrumentation. 
+DEBUG 2019-06-14 13:33:31:440 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations21xInstrumentation. 
+DEBUG 2019-06-14 13:33:31:442 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:444 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:445 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.xmemcached.v2.define.XMemcachedInstrumentation. 
+DEBUG 2019-06-14 13:33:31:447 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-06-14 13:33:31:448 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanConsumerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:450 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanProviderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:451 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcConsumerInstrumentation. 
+DEBUG 2019-06-14 13:33:31:452 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcProviderInstrumentation. 
+DEBUG 2019-06-14 13:33:31:453 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-06-14 13:33:31:455 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-06-14 13:33:31:456 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation. 
+DEBUG 2019-06-14 13:33:31:459 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v2.x.Log4j2OutputAppenderActivation. 
+DEBUG 2019-06-14 13:33:31:460 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+DEBUG 2019-06-14 13:33:31:462 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdc.MDCConverterActivation. 
+DEBUG 2019-06-14 13:33:31:464 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.tracer.SkywalkingTracerActivation. 
+DEBUG 2019-06-14 13:33:31:465 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.span.SkywalkingSpanActivation. 
+DEBUG 2019-06-14 13:33:31:467 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.continuation.SkywalkingContinuationActivation. 
+DEBUG 2019-06-14 13:33:31:468 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.ActiveSpanTagActivation. 
+DEBUG 2019-06-14 13:33:31:470 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceAnnotationActivation. 
+DEBUG 2019-06-14 13:33:31:471 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceContextActivation. 
+DEBUG 2019-06-14 13:33:31:472 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.CallableOrRunnableActivation. 
+DEBUG 2019-06-14 13:33:32:614 GRPCChannelManager :  Selected collector grpc service running, reconnect:true. 
+DEBUG 2019-06-14 13:33:32:617 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:DISCONNECT. 
+DEBUG 2019-06-14 13:33:34:636 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+INFO 2019-06-14 13:33:34:697 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:698 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:698 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:699 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:700 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:700 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:701 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:701 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:702 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:703 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:704 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:705 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:706 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:706 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:707 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:708 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:708 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:709 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:709 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:710 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:710 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:711 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:711 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:712 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:713 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:713 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:714 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:714 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:715 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:716 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:716 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:717 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:717 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:717 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:718 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:719 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:719 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:720 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:720 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:721 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:721 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:722 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:722 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:723 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:723 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:724 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:724 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:725 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:726 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:727 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:728 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:728 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:729 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:33:34:729 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+DEBUG 2019-06-14 13:33:34:740 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation completely. 
+DEBUG 2019-06-14 13:33:34:741 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-06-14 13:33:34:988 SkyWalkingAgent :  On Transformation class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-06-14 13:33:35:292 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-06-14 13:33:35:298 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation completely. 
+DEBUG 2019-06-14 13:33:35:298 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-06-14 13:33:35:342 SkyWalkingAgent :  On Transformation class org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-06-14 13:33:35:619 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:33:36:422 GRPCChannelManager :  Selected collector grpc service shutdown. 
+INFO 2019-06-14 13:53:37:043 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:044 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:045 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:046 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:047 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:048 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:049 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:050 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:051 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:051 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:052 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:053 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:054 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:055 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:057 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:058 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:058 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:059 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:060 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:062 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:063 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:064 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:065 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:066 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:067 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:068 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:069 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:070 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:071 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:072 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:073 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:073 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:074 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:075 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:076 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:077 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:078 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:079 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:080 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:083 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:086 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:087 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:088 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:089 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:090 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:091 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:092 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:092 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:093 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:095 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:096 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:096 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:096 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:099 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:53:37:103 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:103 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:103 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:103 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:103 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:104 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:105 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:105 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:105 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:105 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:105 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:106 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:106 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:106 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:106 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:106 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:107 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:107 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:107 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:107 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:107 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:108 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:108 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:108 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:108 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:108 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:109 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:109 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:109 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:109 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:110 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:110 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:110 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:110 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:110 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:111 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:112 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:112 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:112 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:112 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:113 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:53:37:113 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+DEBUG 2019-06-14 13:53:37:144 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:151 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:152 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.CanalInstrumentation. 
+DEBUG 2019-06-14 13:53:37:153 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.ClusterNodeInstrumentation. 
+DEBUG 2019-06-14 13:53:37:154 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.DubboInstrumentation. 
+DEBUG 2019-06-14 13:53:37:156 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.esjob.define.JobExecutorInstrumentation. 
+DEBUG 2019-06-14 13:53:37:157 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportProxyClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:158 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportActionNodeProxyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:159 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.PlainListenableActionFutureInstrumentation. 
+DEBUG 2019-06-14 13:53:37:162 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.GenericActionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:164 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportClientNodesServiceInstrumentation. 
+DEBUG 2019-06-14 13:53:37:167 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:170 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractStubInstrumentation. 
+DEBUG 2019-06-14 13:53:37:171 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractServerImplBuilderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:172 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.ClientCallsInstrumentation. 
+DEBUG 2019-06-14 13:53:37:173 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:53:37:175 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:176 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.PooledJdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:177 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcXAConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:178 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:179 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.SessionRequestInstrumentation. 
+DEBUG 2019-06-14 13:53:37:180 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncRequestExecutorInstrumentation. 
+DEBUG 2019-06-14 13:53:37:181 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.AbstractHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:183 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:184 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.MinimalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:185 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.DefaultRequestDirectorInstrumentation. 
+DEBUG 2019-06-14 13:53:37:185 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-06-14 13:53:37:186 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-06-14 13:53:37:188 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisClusterInstrumentation. 
+DEBUG 2019-06-14 13:53:37:189 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisInstrumentation. 
+DEBUG 2019-06-14 13:53:37:190 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v90.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:53:37:191 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:53:37:192 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.JettyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:193 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.DispatcherInstrumentation. 
+DEBUG 2019-06-14 13:53:37:194 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:196 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaConsumerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:197 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaProducerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:198 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.ProducerRecordInstrumentation. 
+DEBUG 2019-06-14 13:53:37:199 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:200 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionImplInstrumentation. 
+DEBUG 2019-06-14 13:53:37:201 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v3.define.MongoDBInstrumentation. 
+DEBUG 2019-06-14 13:53:37:202 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:53:37:203 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql5xConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:205 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql50ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:206 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.CallableInstrumentation. 
+DEBUG 2019-06-14 13:53:37:207 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.PreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:208 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.StatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:209 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.FailoverConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:210 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.LoadBalancedConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:211 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.ReplicationConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:212 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpGetSenderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:213 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpPostSenderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:214 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpFilePostSenderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:215 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.mvc.define.ActionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:216 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.RealCallInstrumentation. 
+DEBUG 2019-06-14 13:53:37:217 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:218 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.AsyncCallInstrumentation. 
+DEBUG 2019-06-14 13:53:37:219 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:53:37:220 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc3ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:223 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc4ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:226 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:229 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.AbstractJdbc2StatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:232 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgCallableStatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:234 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgPreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:235 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgStatementInstrumentation. 
+DEBUG 2019-06-14 13:53:37:236 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:237 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:238 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.ConnectionManagerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:240 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisConnectionInstrumentation. 
+DEBUG 2019-06-14 13:53:37:241 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisClientInstrumentation. 
+DEBUG 2019-06-14 13:53:37:242 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:53:37:243 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.ResponseExtractorFutureInstrumentation. 
+DEBUG 2019-06-14 13:53:37:244 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:53:37:245 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:246 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:247 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:53:37:248 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:249 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:251 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:53:37:252 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:53:37:253 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:254 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:255 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:256 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:258 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:259 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sjdbc.define.ExecutorInstrumentation. 
+DEBUG 2019-06-14 13:53:37:260 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.cloud.netflix.feign.v11.define.NetflixFeignInstrumentation. 
+DEBUG 2019-06-14 13:53:37:261 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.FailureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:262 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.SuccessCallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:264 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.ListenableFutureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:53:37:264 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-06-14 13:53:37:266 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-06-14 13:53:37:267 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopExpressionMatchInstrumentation. 
+DEBUG 2019-06-14 13:53:37:268 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-06-14 13:53:37:269 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:271 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:53:37:272 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:273 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInvokerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:274 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:277 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:278 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:53:37:279 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:280 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:282 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:283 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:53:37:284 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.commons.define.AnnotationMethodHandlerAdapterInstrumentation. 
+DEBUG 2019-06-14 13:53:37:286 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spymemcached.v2.define.MemcachedInstrumentation. 
+DEBUG 2019-06-14 13:53:37:287 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.struts2.define.Struts2Instrumentation. 
+DEBUG 2019-06-14 13:53:37:288 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.RequestDispatcherImplInstrumentation. 
+DEBUG 2019-06-14 13:53:37:290 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.UndertowInstrumentation. 
+DEBUG 2019-06-14 13:53:37:290 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations20xInstrumentation. 
+DEBUG 2019-06-14 13:53:37:292 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations21xInstrumentation. 
+DEBUG 2019-06-14 13:53:37:293 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:294 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:295 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.xmemcached.v2.define.XMemcachedInstrumentation. 
+DEBUG 2019-06-14 13:53:37:296 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-06-14 13:53:37:300 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanConsumerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:303 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanProviderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:305 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcConsumerInstrumentation. 
+DEBUG 2019-06-14 13:53:37:309 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcProviderInstrumentation. 
+DEBUG 2019-06-14 13:53:37:311 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-06-14 13:53:37:315 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-06-14 13:53:37:318 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation. 
+DEBUG 2019-06-14 13:53:37:324 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v2.x.Log4j2OutputAppenderActivation. 
+DEBUG 2019-06-14 13:53:37:327 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+DEBUG 2019-06-14 13:53:37:330 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdc.MDCConverterActivation. 
+DEBUG 2019-06-14 13:53:37:331 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.tracer.SkywalkingTracerActivation. 
+DEBUG 2019-06-14 13:53:37:333 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.span.SkywalkingSpanActivation. 
+DEBUG 2019-06-14 13:53:37:334 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.continuation.SkywalkingContinuationActivation. 
+DEBUG 2019-06-14 13:53:37:335 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.ActiveSpanTagActivation. 
+DEBUG 2019-06-14 13:53:37:337 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceAnnotationActivation. 
+DEBUG 2019-06-14 13:53:37:338 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceContextActivation. 
+DEBUG 2019-06-14 13:53:37:339 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.CallableOrRunnableActivation. 
+DEBUG 2019-06-14 13:53:38:274 GRPCChannelManager :  Selected collector grpc service running, reconnect:true. 
+DEBUG 2019-06-14 13:53:38:280 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:DISCONNECT. 
+DEBUG 2019-06-14 13:53:41:201 GRPCChannelManager :  Selected collector grpc service shutdown. 
+INFO 2019-06-14 13:56:50:344 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:345 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:345 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:346 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:346 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:347 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:347 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:348 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:349 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:349 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:350 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:350 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:351 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:351 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:352 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:352 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:353 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:353 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:354 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:354 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:356 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:358 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:358 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:359 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:359 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:360 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:360 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:361 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:361 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:362 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:362 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:363 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:363 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:364 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:365 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:365 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:366 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:366 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:367 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:367 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:368 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:368 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:369 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:369 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:370 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:370 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:371 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:371 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:372 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:373 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:373 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:374 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:374 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:375 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:50:379 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:379 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:379 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:380 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:380 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:380 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:380 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:380 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:381 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:381 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:381 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:381 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:381 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:382 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:382 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:382 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:382 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:382 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:383 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:384 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:384 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:384 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:384 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:384 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:385 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:386 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:386 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:386 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:386 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:386 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:387 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+INFO 2019-06-14 13:56:50:388 PluginResourcesResolver :  find skywalking plugin define in jar:file:C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar!/skywalking-plugin.def 
+DEBUG 2019-06-14 13:56:50:420 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:425 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:426 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.CanalInstrumentation. 
+DEBUG 2019-06-14 13:56:50:429 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.ClusterNodeInstrumentation. 
+DEBUG 2019-06-14 13:56:50:430 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.DubboInstrumentation. 
+DEBUG 2019-06-14 13:56:50:431 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.esjob.define.JobExecutorInstrumentation. 
+DEBUG 2019-06-14 13:56:50:432 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportProxyClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:433 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportActionNodeProxyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:434 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.PlainListenableActionFutureInstrumentation. 
+DEBUG 2019-06-14 13:56:50:435 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.GenericActionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:436 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportClientNodesServiceInstrumentation. 
+DEBUG 2019-06-14 13:56:50:437 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:438 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractStubInstrumentation. 
+DEBUG 2019-06-14 13:56:50:440 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractServerImplBuilderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:440 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.ClientCallsInstrumentation. 
+DEBUG 2019-06-14 13:56:50:443 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:56:50:447 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:449 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.PooledJdbcConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:450 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcXAConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:451 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:452 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.SessionRequestInstrumentation. 
+DEBUG 2019-06-14 13:56:50:453 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncRequestExecutorInstrumentation. 
+DEBUG 2019-06-14 13:56:50:454 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.AbstractHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:455 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:456 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.MinimalHttpClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:457 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.DefaultRequestDirectorInstrumentation. 
+DEBUG 2019-06-14 13:56:50:458 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-06-14 13:56:50:459 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-06-14 13:56:50:460 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisClusterInstrumentation. 
+DEBUG 2019-06-14 13:56:50:462 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisInstrumentation. 
+DEBUG 2019-06-14 13:56:50:463 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v90.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:56:50:464 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-06-14 13:56:50:465 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.JettyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:467 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.DispatcherInstrumentation. 
+DEBUG 2019-06-14 13:56:50:468 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:469 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaConsumerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:470 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaProducerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:471 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.ProducerRecordInstrumentation. 
+DEBUG 2019-06-14 13:56:50:472 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:474 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionImplInstrumentation. 
+DEBUG 2019-06-14 13:56:50:476 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v3.define.MongoDBInstrumentation. 
+DEBUG 2019-06-14 13:56:50:477 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:56:50:478 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql5xConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:480 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.Mysql50ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:481 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.CallableInstrumentation. 
+DEBUG 2019-06-14 13:56:50:482 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.PreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:483 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.StatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:484 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.FailoverConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:485 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.LoadBalancedConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:486 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.define.ReplicationConnectionProxyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:487 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpGetSenderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:489 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpPostSenderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:490 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpFilePostSenderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:491 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.mvc.define.ActionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:493 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.RealCallInstrumentation. 
+DEBUG 2019-06-14 13:56:50:494 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.CallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:495 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.AsyncCallInstrumentation. 
+DEBUG 2019-06-14 13:56:50:496 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.DriverInstrumentation. 
+DEBUG 2019-06-14 13:56:50:497 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc3ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:498 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc4ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:499 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.ConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:501 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.AbstractJdbc2StatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:502 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgCallableStatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:503 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgPreparedStatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:504 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgStatementInstrumentation. 
+DEBUG 2019-06-14 13:56:50:505 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQProducerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:507 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQConsumerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:508 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.ConnectionManagerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:509 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisConnectionInstrumentation. 
+DEBUG 2019-06-14 13:56:50:510 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisClientInstrumentation. 
+DEBUG 2019-06-14 13:56:50:511 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:56:50:513 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.ResponseExtractorFutureInstrumentation. 
+DEBUG 2019-06-14 13:56:50:514 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:56:50:515 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:517 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:518 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:56:50:519 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:521 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:523 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-06-14 13:56:50:525 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-06-14 13:56:50:526 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.SendCallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:527 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:528 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:529 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:530 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:532 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sjdbc.define.ExecutorInstrumentation. 
+DEBUG 2019-06-14 13:56:50:533 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.cloud.netflix.feign.v11.define.NetflixFeignInstrumentation. 
+DEBUG 2019-06-14 13:56:50:535 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.FailureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:536 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.SuccessCallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:538 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.ListenableFutureCallbackInstrumentation. 
+DEBUG 2019-06-14 13:56:50:539 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-06-14 13:56:50:540 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-06-14 13:56:50:542 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopExpressionMatchInstrumentation. 
+DEBUG 2019-06-14 13:56:50:544 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-06-14 13:56:50:545 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:547 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:56:50:549 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:550 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInvokerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:551 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:553 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:554 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:56:50:555 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:556 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:559 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:559 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:56:50:560 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.commons.define.AnnotationMethodHandlerAdapterInstrumentation. 
+DEBUG 2019-06-14 13:56:50:562 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spymemcached.v2.define.MemcachedInstrumentation. 
+DEBUG 2019-06-14 13:56:50:563 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.struts2.define.Struts2Instrumentation. 
+DEBUG 2019-06-14 13:56:50:564 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.RequestDispatcherImplInstrumentation. 
+DEBUG 2019-06-14 13:56:50:565 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.UndertowInstrumentation. 
+DEBUG 2019-06-14 13:56:50:567 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations20xInstrumentation. 
+DEBUG 2019-06-14 13:56:50:568 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations21xInstrumentation. 
+DEBUG 2019-06-14 13:56:50:569 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:571 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:572 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.xmemcached.v2.define.XMemcachedInstrumentation. 
+DEBUG 2019-06-14 13:56:50:574 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-06-14 13:56:50:575 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanConsumerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:576 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanProviderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:577 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcConsumerInstrumentation. 
+DEBUG 2019-06-14 13:56:50:579 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcProviderInstrumentation. 
+DEBUG 2019-06-14 13:56:50:580 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-06-14 13:56:50:581 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-06-14 13:56:50:582 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation. 
+DEBUG 2019-06-14 13:56:50:584 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v2.x.Log4j2OutputAppenderActivation. 
+DEBUG 2019-06-14 13:56:50:586 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+DEBUG 2019-06-14 13:56:50:587 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdc.MDCConverterActivation. 
+DEBUG 2019-06-14 13:56:50:588 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.tracer.SkywalkingTracerActivation. 
+DEBUG 2019-06-14 13:56:50:589 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.span.SkywalkingSpanActivation. 
+DEBUG 2019-06-14 13:56:50:591 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.continuation.SkywalkingContinuationActivation. 
+DEBUG 2019-06-14 13:56:50:592 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.ActiveSpanTagActivation. 
+DEBUG 2019-06-14 13:56:50:593 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceAnnotationActivation. 
+DEBUG 2019-06-14 13:56:50:595 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceContextActivation. 
+DEBUG 2019-06-14 13:56:50:596 PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.CallableOrRunnableActivation. 
+DEBUG 2019-06-14 13:56:51:516 GRPCChannelManager :  Selected collector grpc service running, reconnect:true. 
+DEBUG 2019-06-14 13:56:51:518 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:DISCONNECT. 
+DEBUG 2019-06-14 13:56:53:475 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.skywalking.apm.toolkit.log.logback.v1.x.LogbackPatternConverter by org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+INFO 2019-06-14 13:56:53:567 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-activemq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:567 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-canal-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:568 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-dubbo-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:569 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:569 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:570 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:571 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-grpc-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:571 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-h2-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:572 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:573 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-httpClient-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:573 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-hystrix-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:574 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jdbc-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:576 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jedis-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:576 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:577 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:577 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:578 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-kafka-v1-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:578 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:579 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mongodb-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:580 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-mysql-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:580 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:581 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:582 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-okhttp-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:583 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-postgresql-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:583 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:584 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-redisson-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:585 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:586 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:586 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:587 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:587 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:588 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:589 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:590 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:591 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spring-core-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:592 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:592 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:593 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:593 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-springmvc-annotation-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:594 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:594 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-struts2-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:596 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-undertow-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:596 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-webflux-5.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:596 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:597 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\dubbo-conflict-patch-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:598 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\motan-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:598 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\sofa-rpc-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:599 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\spring-commons-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:599 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:601 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:602 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:603 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:603 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-opentracing-activation-6.0.0-GA.jar loaded. 
+INFO 2019-06-14 13:56:53:604 AgentClassLoader :  C:\Users\tanji\tanjie\git_workspace\SpringBootWithSkywalking\agent\activations\apm-toolkit-trace-activation-6.0.0-GA.jar loaded. 
+DEBUG 2019-06-14 13:56:53:612 AbstractClassEnhancePluginDefine :  enhance class org.apache.skywalking.apm.toolkit.log.logback.v1.x.LogbackPatternConverter by org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation completely. 
+DEBUG 2019-06-14 13:56:53:613 SkyWalkingAgent :  Finish the prepare stage for org.apache.skywalking.apm.toolkit.log.logback.v1.x.LogbackPatternConverter. 
+DEBUG 2019-06-14 13:56:53:891 SkyWalkingAgent :  On Transformation class org.apache.skywalking.apm.toolkit.log.logback.v1.x.LogbackPatternConverter. 
+DEBUG 2019-06-14 13:56:54:282 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-06-14 13:56:54:295 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation completely. 
+DEBUG 2019-06-14 13:56:54:295 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-06-14 13:56:54:358 SkyWalkingAgent :  On Transformation class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-06-14 13:56:54:518 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:56:54:714 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-06-14 13:56:54:721 AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation completely. 
+DEBUG 2019-06-14 13:56:54:721 SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-06-14 13:56:54:767 SkyWalkingAgent :  On Transformation class org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-06-14 13:56:55:313 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-06-14 13:56:55:324 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation completely. 
+DEBUG 2019-06-14 13:56:55:324 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.client.RestTemplate. 
+DEBUG 2019-06-14 13:56:55:428 SkyWalkingAgent :  On Transformation class org.springframework.web.client.RestTemplate. 
+DEBUG 2019-06-14 13:56:55:578 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.demo.rest.TestResource by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+WARN 2019-06-14 13:56:55:580 AbstractClassEnhancePluginDefine :  enhance class com.example.demo.rest.TestResource by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-06-14 13:56:55:580 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.demo.rest.TestResource by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:55:594 AbstractClassEnhancePluginDefine :  enhance class com.example.demo.rest.TestResource by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation completely. 
+DEBUG 2019-06-14 13:56:55:594 AbstractClassEnhancePluginDefine :  prepare to enhance class com.example.demo.rest.TestResource by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+WARN 2019-06-14 13:56:55:596 AbstractClassEnhancePluginDefine :  enhance class com.example.demo.rest.TestResource by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-06-14 13:56:55:596 SkyWalkingAgent :  Finish the prepare stage for com.example.demo.rest.TestResource. 
+DEBUG 2019-06-14 13:56:55:616 SkyWalkingAgent :  On Transformation class com.example.demo.rest.TestResource. 
+DEBUG 2019-06-14 13:56:55:991 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+WARN 2019-06-14 13:56:55:991 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+WARN 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation completely. 
+DEBUG 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+WARN 2019-06-14 13:56:55:992 AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-06-14 13:56:55:992 SkyWalkingAgent :  Finish the prepare stage for org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-06-14 13:56:56:021 SkyWalkingAgent :  On Transformation class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-06-14 13:56:56:693 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-06-14 13:56:56:695 AbstractClassEnhancePluginDefine :  enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation completely. 
+DEBUG 2019-06-14 13:56:56:695 SkyWalkingAgent :  Finish the prepare stage for org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-06-14 13:56:56:706 SkyWalkingAgent :  On Transformation class org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-06-14 13:56:57:370 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-06-14 13:56:57:373 AbstractClassEnhancePluginDefine :  enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation completely. 
+DEBUG 2019-06-14 13:56:57:373 SkyWalkingAgent :  Finish the prepare stage for org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-06-14 13:56:57:391 SkyWalkingAgent :  On Transformation class org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-06-14 13:56:57:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:56:57:962 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+WARN 2019-06-14 13:56:57:962 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-06-14 13:56:57:962 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+WARN 2019-06-14 13:56:57:963 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-06-14 13:56:57:963 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-06-14 13:56:57:964 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation completely. 
+DEBUG 2019-06-14 13:56:57:964 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-06-14 13:56:57:973 SkyWalkingAgent :  On Transformation class org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-06-14 13:56:57:977 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+WARN 2019-06-14 13:56:57:977 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-06-14 13:56:57:977 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+WARN 2019-06-14 13:56:57:977 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-06-14 13:56:57:983 SkyWalkingAgent :  On Transformation class org.springframework.web.method.support.InvocableHandlerMethod. 
+DEBUG 2019-06-14 13:57:00:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:03:519 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:06:519 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:09:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:12:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:15:519 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:17:129 AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.catalina.core.ApplicationDispatcher by org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-06-14 13:57:17:134 AbstractClassEnhancePluginDefine :  enhance class org.apache.catalina.core.ApplicationDispatcher by org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation completely. 
+DEBUG 2019-06-14 13:57:17:134 SkyWalkingAgent :  Finish the prepare stage for org.apache.catalina.core.ApplicationDispatcher. 
+DEBUG 2019-06-14 13:57:17:153 SkyWalkingAgent :  On Transformation class org.apache.catalina.core.ApplicationDispatcher. 
+DEBUG 2019-06-14 13:57:18:519 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:21:511 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-06-14 13:57:21:518 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:24:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:27:519 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:30:520 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-06-14 13:57:32:425 GRPCChannelManager :  Selected collector grpc service shutdown. 
